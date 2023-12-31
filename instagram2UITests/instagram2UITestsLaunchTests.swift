@@ -2,7 +2,7 @@
 //  instagram2UITestsLaunchTests.swift
 //  instagram2UITests
 //
-//  Created by iOS on 30/12/23.
+//  Created by Madhu on 30/12/23.
 //
 
 import XCTest

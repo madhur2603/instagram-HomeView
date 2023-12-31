@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Instagram
 //
-//  Created by iOS on 30/12/23.
+//  Created by Madhu on 30/12/23.
 //
 
 import UIKit

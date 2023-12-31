@@ -2,7 +2,7 @@
 //  instagram2Tests.swift
 //  instagram2Tests
 //
-//  Created by iOS on 30/12/23.
+//  Created by Madhu on 30/12/23.
 //
 
 import XCTest
