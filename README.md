@@ -1,2 +1,2 @@
 Just the home view of instagram in Swift
-![simulator_screenshot_76221FF8-9996-4458-BA6B-464C008909FC](https://github.com/madhur2603/instagram-HomeView/assets/137180100/7fd2ffe9-fed2-432d-8dfe-a49b126a0455)
+<img width="364" alt="Screenshot 2023-12-31 at 1 57 45 PM" src="https://github.com/madhur2603/instagram-HomeView/assets/137180100/2b2cf961-c9f9-4f31-ad0c-bd4275296e2d">
